@@ -8,3 +8,4 @@ build/
 .vscode/ipch/
 .vscode/settings.json
 .vscode/*.code-workspace
+src/config.local.h
